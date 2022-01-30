@@ -15,3 +15,4 @@ pip install json
 pip install cfscrape
 pip install glob
 pip install time
+pip install scapy
